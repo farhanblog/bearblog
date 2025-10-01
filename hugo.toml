@@ -1,6 +1,6 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://farhanblog.github.io/bearblog/"
+baseURL = "https://bearblogger.pages.dev/"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
