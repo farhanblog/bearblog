@@ -4,24 +4,22 @@ menu = "main"
 weight = 1
 +++
 
-# A match made in heaven
+# Selamat Datang di BearABC.Net!
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+Halo! Saya **Farhan Cahyadi**, selaku **pemilik dan penulis blog** ini. Anda telah menemukan tempat di mana informasi menarik bertemu dengan kisah kehidupan sehari-hari.
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+Di sini, saya berbagi semua hal yang membuat hidup lebih seru dan mudah. Anda akan menemukan **artikel-artikel pilihan** yang membahas:
 
-[Go to the original bear blog](https://bearblog.dev/).
-
----
-
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
-
-**Use this theme, and find out!**
-
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
+* **Wisata & Kuliner:** Panduan dan rekomendasi tempat-tempat indah untuk dikunjungi dan hidangan lezat untuk dicoba.
+* **Informasi Menarik:** Ulasan, cerita, dan fakta-fakta unik dari berbagai penjuru.
+* **Tutorial Kehidupan Sehari-hari:** Tips praktis, panduan langkah-demi-langkah, dan trik sederhana untuk mempermudah rutinitas Anda.
 
 ---
 
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
+### Sedikit Tentang Teknologi di Balik Layar
 
-Each page is ~5kb, and you can **host your blog yourself**.
+Blog ini dibangun dengan prinsip kesederhanaan dan kecepatan. **BearABC.Net** adalah sebuah **Static Site** yang saya buat menggunakan *framework* **Hugo**. Untuk stabilitas dan kinerja terbaik, blog ini ditenagai oleh **GitHub** sebagai *repository* dan disajikan dengan cepat melalui **Cloudflare**. Nama domain ini saya dapatkan dari **Domainesia**.
+
+Saya harap Anda menemukan sesuatu yang bermanfaat dan menginspirasi di setiap kunjungan Anda.
+
+Selamat menjelajah!
