@@ -1,2 +1,16 @@
-User-Agent: *
-Sitemap: {{ "sitemap.xml" | absURL }}
+User-agent: *
+Disallow: /tags/
+Disallow: /categories/
+Disallow: /page/
+Disallow: /author/
+Disallow: /about/
+Disallow: /contact/
+Allow: /$
+Allow: /images/
+Allow: /static/
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.webp$
+Allow: /*.svg$
+Sitemap: https://bearabc.net/sitemap.xml
