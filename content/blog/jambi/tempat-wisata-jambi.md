@@ -6,6 +6,7 @@ tags = [
     "jambi",
     "wisata",
 ]
+url = "/10-tempat-wisata-jambi"
 +++
 
 ![tempat wisata jambi](/images/bearabcnet.jpg)
@@ -98,5 +99,6 @@ Monumen ini juga sering menjadi lokasi acara budaya dan peringatan penting, sehi
 Nah, itulah daftar lengkap 10 Tempat Wisata Jambi Terkenal Paling Hits yang wajib Anda kunjungi. Mulai dari keindahan alam Danau Kaco dan puncak Gunung Kerinci, hingga warisan sejarah di Candi Muaro Jambi dan ikon modern Gentala Arasy, Jambi menawarkan paket wisata yang lengkap.
 
 ​Jangan sampai salah pilih dan terlewatkan destinasi terbaik ini! Jika Anda punya pengalaman menarik saat mengunjungi tempat wisata di Jambi lainnya, jangan ragu untuk berbagi cerita di kolom komentar di bawah! Selamat merencanakan liburan Anda!
+
 
 
