@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-![tempat wisata jambi](/content/blog/jambi/bearabcnet.jpg)
+![tempat wisata jambi](/static/images/bearabcnet.jpg)
 
 Halo para traveller dan pemburu pengalaman baru!
 ​Saat mendengar kata Jambi, mungkin yang terlintas adalah Sungai Batanghari atau hutan tropis yang lebat. Namun, Provinsi Jambi menyimpan lebih dari sekadar keindahan alam, ia adalah harta karun destinasi yang memadukan sejarah kuno, petualangan alam ekstrem, hingga rekreasi keluarga modern. 
@@ -98,3 +98,4 @@ Monumen ini juga sering menjadi lokasi acara budaya dan peringatan penting, sehi
 Nah, itulah daftar lengkap 10 Tempat Wisata Jambi Terkenal Paling Hits yang wajib Anda kunjungi. Mulai dari keindahan alam Danau Kaco dan puncak Gunung Kerinci, hingga warisan sejarah di Candi Muaro Jambi dan ikon modern Gentala Arasy, Jambi menawarkan paket wisata yang lengkap.
 
 ​Jangan sampai salah pilih dan terlewatkan destinasi terbaik ini! Jika Anda punya pengalaman menarik saat mengunjungi tempat wisata di Jambi lainnya, jangan ragu untuk berbagi cerita di kolom komentar di bawah! Selamat merencanakan liburan Anda!
+
