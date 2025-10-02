@@ -14,7 +14,7 @@ url = "/danau-kaco-jambi"
 
 # Danau Kaco Jambi: Permata Biru Tersembunyi di Tengah Hutan Kerinci  
 
-Indonesia dikenal sebagai negeri yang kaya akan keindahan alam. Dari Sabang sampai Merauke, setiap daerah memiliki daya tarik tersendiri, baik berupa pantai, gunung, hutan, maupun danau. Salah satu pesona alam yang jarang diketahui banyak orang tetapi sangat menakjubkan adalah **Danau Kaco Jambi**. Terletak di tengah hutan tropis Taman Nasional Kerinci Seblat, danau ini sering dijuluki sebagai permata biru tersembunyi karena warna airnya yang jernih dan berkilau.  
+Indonesia dikenal sebagai negeri yang kaya akan keindahan alam. Dari Sabang sampai Merauke, setiap daerah memiliki daya tarik tersendiri, baik berupa pantai, gunung, hutan, maupun danau. Salah satu pesona alam yang jarang diketahui banyak orang tetapi sangat menakjubkan adalah [**Danau Kaco Jambi**](https://bearabc.net/10-tempat-wisata-jambi/). Terletak di tengah hutan tropis Taman Nasional Kerinci Seblat, danau ini sering dijuluki sebagai permata biru tersembunyi karena warna airnya yang jernih dan berkilau.  
 
 Bagi para pecinta alam, Danau Kaco bukan sekadar tempat wisata biasa. Danau ini menyimpan keindahan yang menenangkan sekaligus misteri yang membuat orang penasaran. Meski tidak seluas danau-danau lain di Indonesia, keunikan airnya yang sebening kaca menjadikan tempat ini salah satu destinasi terbaik untuk dieksplorasi di Sumatera.  
 
