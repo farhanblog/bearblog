@@ -12,11 +12,11 @@
 <content>
   {{ .Content }}
 
-  <h3>Artikel Terkait</h3>
+<h3>Baca Juga</h3>
 <ul>
-  {{ $related := .Site.RegularPages | intersect (where .Site.RegularPages "Params.tags" "intersect" .Params.tags) }}
-  {{ range first 1 $related }}
-    {{ if ne .Permalink $.Permalink }} <!-- jangan link ke dirinya sendiri -->
+  {{ $related := where site.RegularPages "Section" .Section }}
+  {{ range first 3 $related }}
+    {{ if ne .Permalink $.Permalink }}
       <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
   {{ end }}
