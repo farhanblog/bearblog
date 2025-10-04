@@ -1,6 +1,6 @@
 +++
 title = "Taman Wisata Donorejo Jambi Destinasi Rekreasi dan Pemberdayaan Ekonomi Warga - Wisata Jambi"
-date = "2025-07-28"
+date = "2025-01-04"
 description = "Taman Wisata Donorejo di Kota Jambi terus berinovasi dengan menghadirkan wahana baru seperti kolam renang dan water boom, serta menggandeng UMKM untuk mendukung ekonomi warga sekitar."
 tags = [
     "jambi",
