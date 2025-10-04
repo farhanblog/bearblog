@@ -11,6 +11,17 @@
 {{ end }}{{ end }}
 <content>
   {{ .Content }}
+
+  <h3>Artikel Terkait</h3>
+<ul>
+  {{ $related := .Site.RegularPages | intersect (where .Site.RegularPages "Params.tags" "intersect" .Params.tags) }}
+  {{ range first 1 $related }}
+    {{ if ne .Permalink $.Permalink }} <!-- jangan link ke dirinya sendiri -->
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  {{ end }}
+</ul>
+
 </content>
 
 {{ if eq .Type "blog" }}{{ if (.Param "enablePostNavigator")}}
