@@ -10,7 +10,7 @@ tags = [
 url = "/taman-nasional-way-kambas-wisata-lampung"
 +++
 
-
+![Wisata Way Kambas Lampung](/images/way-kambas-lampung.webp)
 
 Pernah nggak kamu ngerasa kagum sama hewan besar yang lembut, cerdas, dan setia pada kawanannya?  
 Ya, itulah **gajah Sumatra** — simbol kebijaksanaan dan kekuatan yang kini mulai langka. Dan kalau kamu pengin melihatnya dari dekat, **Taman Nasional Way Kambas** di Lampung adalah tempat terbaik untuk itu.  
