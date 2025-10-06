@@ -10,7 +10,7 @@ tags = [
 url = "/tempat-wisata-lampung"
 +++
 
-![Tempat Wisata Lampung: Dari Alam, Budaya, hingga Rekreasi Keluarga](/images/taman-wisata-donorejo-jambi.webp)
+![Tempat Wisata Lampung: Dari Alam, Budaya, hingga Rekreasi Keluarga](/images/tempat-wisata-lampung.webp)
 
 Pernah nggak sih kamu pengin liburan yang lengkap — ada pantai, ada gunung, ada budaya, tapi tetap tenang dan nggak ramai kayak Bali?  
 Kalau iya, **Lampung** bisa jadi jawabannya. Provinsi di ujung selatan Sumatra ini bukan cuma gerbang pulau, tapi juga surga kecil yang nyimpan keindahan alam, keramahan budaya, dan tempat rekreasi seru buat keluarga. 🌴  
