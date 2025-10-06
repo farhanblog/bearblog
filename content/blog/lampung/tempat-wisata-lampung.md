@@ -1,12 +1,16 @@
 +++
 title = "Tempat Wisata Lampung: Dari Alam, Budaya, hingga Rekreasi Keluarga"
-date = "2025-10-06"
+date = "2025-01-06"
 description = "Jelajahi keindahan alam, budaya, dan destinasi keluarga di Lampung. Dari Way Kambas hingga Pantai Gigi Hiu, inilah panduan lengkap wisata Lampung yang wajib dikunjungi."
-tags = ["lampung", "wisata", "sumatra"]
+tags = [
+"lampung", 
+"wisata", 
+"sumatra"
+]
 url = "/tempat-wisata-lampung"
 +++
 
-# Tempat Wisata Lampung: Dari Alam, Budaya, hingga Rekreasi Keluarga
+![Tempat Wisata Lampung: Dari Alam, Budaya, hingga Rekreasi Keluarga](/images/taman-wisata-donorejo-jambi.webp)
 
 Pernah nggak sih kamu pengin liburan yang lengkap — ada pantai, ada gunung, ada budaya, tapi tetap tenang dan nggak ramai kayak Bali?  
 Kalau iya, **Lampung** bisa jadi jawabannya. Provinsi di ujung selatan Sumatra ini bukan cuma gerbang pulau, tapi juga surga kecil yang nyimpan keindahan alam, keramahan budaya, dan tempat rekreasi seru buat keluarga. 🌴  
