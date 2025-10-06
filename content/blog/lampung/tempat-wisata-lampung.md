@@ -22,7 +22,7 @@ Mulai dari taman nasional dengan gajah sumatra, pulau-pulau berair jernih, sampa
 ## Wisata Alam Lampung
 
 ### 1. Taman Nasional Way Kambas  
-Siapa yang nggak kenal **Way Kambas**? Tempat ini bukan cuma taman nasional biasa — tapi rumah bagi gajah-gajah Sumatra yang dilindungi. Di sini, kamu bisa lihat langsung kegiatan pelatihan gajah, wisata edukasi, sampai area konservasi yang dikelola dengan serius.  
+Siapa yang nggak kenal [**Way Kambas**](https://bearabc.net/taman-nasional-way-kambas-wisata-lampung/)? Tempat ini bukan cuma taman nasional biasa — tapi rumah bagi gajah-gajah Sumatra yang dilindungi. Di sini, kamu bisa lihat langsung kegiatan pelatihan gajah, wisata edukasi, sampai area konservasi yang dikelola dengan serius.  
 Kalau beruntung, kamu bahkan bisa melihat **badak sumatra** dari kejauhan — langka banget!  
 
 Way Kambas cocok buat kamu yang suka petualangan ringan sekaligus ingin belajar tentang pentingnya menjaga alam.
