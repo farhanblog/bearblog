@@ -1,6 +1,7 @@
 +++
 title = "Pantai Gigi Hiu Lampung: Pesona Tebing Karang Tajam dan Keindahan Alam Laut - Wisata Lampung"
 date = "2025-01-08"
+image = "/images/pantai-gigi-hiu-lampung.webp"
 description = "Pantai Gigi Hiu Lampung di Tanggamus terkenal dengan tebing karang tajam menyerupai gigi hiu. Temukan keindahan, rute perjalanan dari Bandar Lampung, Metro, hingga Pesawaran, serta tips berkunjung dan harga tiket masuk."
 tags = [
     "pantai gigi hiu",
